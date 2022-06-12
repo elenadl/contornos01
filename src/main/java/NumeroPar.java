@@ -16,7 +16,8 @@ public class NumeroPar {
         Scanner in=new Scanner(System.in);
         System.out.println("Primera línea añadida ");
         System.out.println("Segunda línea añadida ");
-        System.out.println("Introduce un número: ");
+        System.out.println("Tercera línea añadida ");
+        System.out.println("Introduce un número, please: ");
         int num=in.nextInt();
         System.out.println(ePar(num));
     }
